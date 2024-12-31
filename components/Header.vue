@@ -20,7 +20,6 @@
                             <li><nuxt-link to="/Profil/Sejarah" class="dropdown-item">Sejarah</nuxt-link></li>
                             <li><nuxt-link to="/Profil/VisiMisi" class="dropdown-item">Visi & Misi</nuxt-link></li>
                             <li><nuxt-link to="/Profil/Kepsek" class="dropdown-item">Kepala Sekolah</nuxt-link></li>
-                            <li><nuxt-link to="/Profil/Struktur" class="dropdown-item">Struktur Organisasi</nuxt-link></li>
                             <li><nuxt-link to="/Profil/guruStaf" class="dropdown-item">Guru & Staf</nuxt-link></li>
                         </ul>
                     </li>
@@ -50,7 +49,7 @@
                             
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">ARTIKEL</a>
+                        <nuxt-link to="/Artikel" class="nav-link active" aria-current="page" href="#">ARTIKEL</nuxt-link>
                     </li>
                 </ul>
             </div>

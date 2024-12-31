@@ -71,6 +71,8 @@
             <div class="col-3 alamat">
                 <h5>Alamat</h5>
                 <hr />
+                <h6>Jl. Depok, Sukamenak, Kec. Purbaratu, Kab. Tasikmalaya, </h6>
+                
                 <!-- <iframe
                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.213163631709!2d108.25189907588084!3d-7.329939972091708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f59eeb6bda36f%3A0xa9e724a275da6c2d!2sSMK%20Negeri%204%20Tasikmalaya!5e0!3m2!1sid!2sid!4v1735283189045!5m2!1sid!2sid"
                     width="300" height="300" style="border: 0"  loading="lazy"

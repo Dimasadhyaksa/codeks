@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h4 class="mt-5">Sarana & <br> <span class="text-primary">Prasarana</span></h4>
+        <h4 class="mt-5">Sarana & Prasarana</h4>
         <div class="row mt-5 justify-content-center">
             <div class="col-5">
                 <div class="card rounded-2">

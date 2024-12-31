@@ -14,7 +14,7 @@
                         </p>
                         <hr />
                         <h5 class="card-title">Misi</h5>
-                        <p class="card-text">
+                        <div class="card-text">
                         <ul>
                             <li>Menyiapkan Sumber Daya Manusia yang cerdas dan kompeten baik hardskill maupun softskill.
                             </li>
@@ -36,9 +36,9 @@
                             <li>Menanamkan dan membudayakan sikap dan perilaku yang baik pada aktivitas di sekolah
                                 maupun dalam kehidupan sehari-hari.</li>
                         </ul>
-                        </p>
+                        </div>
                         <h5 class="card-title">Tujuan SMK Negeri 4 Tasikmalaya</h5>
-                        <p class="card-text">
+                        <div class="card-text">
                         <ul>
                             <li>Sekolah meraih prestasi pencapaian nilai rata-rata UN dan indeks integritas diatas
                                 rata-rata Nasional pada tahun 2026.</li>
@@ -70,7 +70,7 @@
                             <li>Sekolah melaksanakan program menumbuh kembangkan Budi Pekerti dan akhlak mulia melalui
                                 pendidikan karakter pada kegiatan, intra, ekstra kurikuler dan non kurikuler.</li>
                         </ul>
-                        </p>
+                        </div>
                     </div>
                 </div>
             </div>
